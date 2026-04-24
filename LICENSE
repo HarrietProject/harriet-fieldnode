@@ -1,0 +1,39 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+(CERN-OHL-S v2)
+
+Copyright (c) 2026 Project Groundwave contributors.
+
+The hardware designs, schematics, CAD files, and related technical
+documentation contained in this repository are licensed under the
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+(CERN-OHL-S v2). You may redistribute and modify this documentation
+and make products using it, under the terms of that licence.
+
+The full text of the licence is available at:
+
+    https://ohwr.org/cern_ohl_s_v2.txt
+
+Files that are pure written prose (Markdown text intended for human
+readers) in this repository are additionally available under
+Creative Commons Attribution ShareAlike 4.0 (CC BY-SA 4.0) at the
+contributor's option, so that third parties may quote, adapt, and
+republish the text on websites, wikis, and printed material under
+the ShareAlike condition. Where the two licences conflict, CERN-OHL-S
+v2 prevails for hardware design artefacts (schematics, CAD,
+bills of materials) and CC BY-SA 4.0 prevails for prose.
+
+Source files are available at:
+
+    https://github.com/GroundWaveJack/groundwave-fieldnode
+
+This licensing arrangement is described in more detail in the main
+project repository:
+
+    https://github.com/GroundWaveJack/GroundWave
+
+DISCLAIMER OF WARRANTY: This hardware design is provided "AS IS"
+without any warranty of any kind, express or implied, including but
+not limited to warranties of merchantability, fitness for a particular
+purpose, and non infringement. In no event shall the authors or
+contributors be liable for any claim, damages, or other liability
+arising from, out of, or in connection with the use of this design.
