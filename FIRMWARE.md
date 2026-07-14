@@ -51,9 +51,9 @@ The auto installer detects the board, downloads the correct firmware image, flas
 
 ### 3.4 Set frequency and channel
 
-The installer asks for a frequency. Use the Groundwave channel plan. See [CHANNEL_PLAN.md](https://github.com/GroundWaveJack/GroundWave/blob/main/CHANNEL_PLAN.md) in the main GroundWave repository for current assignments.
+The installer asks for a frequency. Use the Harriet channel plan. See [CHANNEL_PLAN.md](https://github.com/HarrietProject/Harriet/blob/main/CHANNEL_PLAN.md) in the main Harriet repository for current assignments.
 
-For the v1.0 FieldNode, the default channel is Groundwave CH2 (relay only). The node is configured to forward traffic for CH0, CH1, CH2, and CH9 within legal duty cycle.
+For the v1.0 FieldNode, the default channel is Harriet CH2 (relay only). The node is configured to forward traffic for CH0, CH1, CH2, and CH9 within legal duty cycle.
 
 ### 3.5 Enable transport mode
 
@@ -90,4 +90,4 @@ Future work may include over the air firmware updates via Reticulum, but this is
 * RetiNet: an AGPL fork of Reticulum with identical wire format. Usable as a replacement host stack.
 * Reticulum-rs: a Rust implementation tracked for future integration.
 
-See [groundwave-docs/RETICULUM_GUIDE.md](https://github.com/GroundWaveJack/groundwave-docs) for background on the Reticulum stack and the current fork situation.
+See [harriet-docs/RETICULUM_GUIDE.md](https://github.com/HarrietProject/harriet-docs) for background on the Reticulum stack and the current fork situation.

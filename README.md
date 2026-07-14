@@ -1,8 +1,8 @@
-# groundwave-fieldnode
+# harriet-fieldnode
 
-The FieldNode is Tier 3 of the Groundwave hardware stack. It is a solar powered, weatherproof Reticulum relay node designed to be placed in the field and left unattended for extended periods. One small computer, one LoRa radio, one battery, one antenna, one job: relay mesh traffic.
+The FieldNode is Tier 3 of the Harriet hardware stack. It is a solar powered, weatherproof Reticulum relay node designed to be placed in the field and left unattended for extended periods. One small computer, one LoRa radio, one battery, one antenna, one job: relay mesh traffic.
 
-The FieldNode is the first Groundwave deliverable. It is targeted for 2026. It is the simplest tier to build, the cheapest to deploy, and the one that delivers immediate value to the wider Reticulum network the moment it comes online.
+The FieldNode is the first Harriet deliverable. It is targeted for 2026. It is the simplest tier to build, the cheapest to deploy, and the one that delivers immediate value to the wider Reticulum network the moment it comes online.
 
 ## Status
 
@@ -16,7 +16,7 @@ Early architecture phase. Hardware selection is locked at the module level (see 
 * A weatherproof enclosure design suitable for outdoor, mast, or rooftop mounting
 * A deployment guide covering placement, solar orientation, and maintenance
 
-The FieldNode does not require a subscription, an account, a SIM card, a cell tower, or a working internet connection. Once deployed, it participates in the Reticulum mesh as a transport node and forwards traffic for any Groundwave, Sideband, MeshChat, or Columba user within LoRa range.
+The FieldNode does not require a subscription, an account, a SIM card, a cell tower, or a working internet connection. Once deployed, it participates in the Reticulum mesh as a transport node and forwards traffic for any Harriet, Sideband, MeshChat, or Columba user within LoRa range.
 
 ## Target cost
 
@@ -24,7 +24,7 @@ The FieldNode does not require a subscription, an account, a SIM card, a cell to
 
 ## Why the FieldNode ships first
 
-1. Lowest engineering complexity of any Groundwave tier. No custom PCB, no Android build, no display integration.
+1. Lowest engineering complexity of any Harriet tier. No custom PCB, no Android build, no display integration.
 2. Immediate utility. Every node deployed adds routing capacity to the Reticulum mesh.
 3. Low barrier to entry. An afternoon build at consumer component prices is the widest possible on ramp for contributors.
 4. Supply chain validation. Shipping the first 50 kits exposes every sourcing, documentation, and logistics issue before the more complex Anchor and Brick tiers are attempted.
@@ -47,11 +47,11 @@ The FieldNode does not require a subscription, an account, a SIM card, a cell to
 
 | Repository | Role |
 |------------|------|
-| [GroundWave](https://github.com/GroundWaveJack/GroundWave) | Project overview, governance, threat model, channel plan |
-| [groundwave-docs](https://github.com/GroundWaveJack/groundwave-docs) | Reticulum setup, radio primer, software stack guide |
-| [groundwave-kits](https://github.com/GroundWaveJack/groundwave-kits) | Pre built kit offerings and sourcing guides |
-| [groundwave-anchor](https://github.com/GroundWaveJack/groundwave-anchor) | Tier 2 base station that anchors a local FieldNode cluster |
+| [Harriet](https://github.com/HarrietProject/Harriet) | Project overview, governance, threat model, channel plan |
+| [harriet-docs](https://github.com/HarrietProject/harriet-docs) | Reticulum setup, radio primer, software stack guide |
+| [harriet-kits](https://github.com/HarrietProject/harriet-kits) | Pre built kit offerings and sourcing guides |
+| [harriet-anchor](https://github.com/HarrietProject/harriet-anchor) | Tier 2 base station that anchors a local FieldNode cluster |
 
 ## License
 
-Hardware designs, schematics, and CAD files in this repository are licensed under [CERN-OHL-S-2.0](LICENSE). See the main [GroundWave](https://github.com/GroundWaveJack/GroundWave) repository for full license terms across the project.
+Hardware designs, schematics, and CAD files in this repository are licensed under [CERN-OHL-S-2.0](LICENSE). See the main [Harriet](https://github.com/HarrietProject/Harriet) repository for full license terms across the project.

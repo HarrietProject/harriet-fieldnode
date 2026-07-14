@@ -92,7 +92,7 @@ Enclosure CAD is not yet published. `hardware/` will contain STEP and STL files 
 * RNode firmware version 1.82 or newer
 * Installed via `rnodeconf --autoinstall`
 * Role: transport node (always on), not a user handset
-* Channels: see `CHANNEL_PLAN.md` in the main [GroundWave](https://github.com/GroundWaveJack/GroundWave) repository
+* Channels: see `CHANNEL_PLAN.md` in the main [Harriet](https://github.com/HarrietProject/Harriet) repository
 * Identity: generated at first boot; the identity hash is written on a laminated serial card included with each kit
 
 See `FIRMWARE.md` for the flashing procedure.

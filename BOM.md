@@ -78,7 +78,7 @@ Prices exclude shipping, consumables already on hand, and 3D printing filament c
 | Moderate | Solar panels (specific wattage and voltage) | Substitute voltage compatible equivalents |
 | High | LILYGO T-Beam Supreme | Frequently sold out. Use RAK or Heltec as fallback. |
 
-See [groundwave-kits/SUPPLY_CHAIN.md](https://github.com/GroundWaveJack/groundwave-kits) for a project wide risk register.
+See [harriet-kits/SUPPLY_CHAIN.md](https://github.com/HarrietProject/harriet-kits) for a project wide risk register.
 
 ## 9. Contributions welcome
 

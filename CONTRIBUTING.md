@@ -1,8 +1,8 @@
-# Contributing to groundwave-fieldnode
+# Contributing to harriet-fieldnode
 
-Thank you for considering a contribution. This repository is part of Project Groundwave, an open source hardware and documentation effort. Contributions of all kinds are welcome: hardware improvements, firmware configuration notes, build photographs, measurement data, sourcing information, corrections, and clearer writing.
+Thank you for considering a contribution. This repository is part of Project Harriet, an open source hardware and documentation effort. Contributions of all kinds are welcome: hardware improvements, firmware configuration notes, build photographs, measurement data, sourcing information, corrections, and clearer writing.
 
-See the main [GroundWave](https://github.com/GroundWaveJack/GroundWave) repository for project wide governance and the code of conduct.
+See the main [Harriet](https://github.com/HarrietProject/Harriet) repository for project wide governance and the code of conduct.
 
 ## How to contribute
 
@@ -22,7 +22,7 @@ See the main [GroundWave](https://github.com/GroundWaveJack/GroundWave) reposito
 
 If you used a language model or other AI tool to generate any part of your contribution, you must disclose this in the pull request description. A short note such as "portions of the BOM narrative were drafted with an AI assistant and verified manually" is sufficient.
 
-This requirement is a governance decision of Project Groundwave. It exists because undisclosed AI authored contributions to open source communications projects have caused trust incidents in adjacent ecosystems. Groundwave takes a different position: AI tools are legitimate but must be visible.
+This requirement is a governance decision of Project Harriet. It exists because undisclosed AI authored contributions to open source communications projects have caused trust incidents in adjacent ecosystems. Harriet takes a different position: AI tools are legitimate but must be visible.
 
 ## Reporting issues
 
@@ -36,4 +36,4 @@ Hardware and documentation issues can be filed in the issue tracker. Please incl
 
 ## Code of conduct
 
-Contributors are expected to follow the project code of conduct, which is published in the main [GroundWave](https://github.com/GroundWaveJack/GroundWave) repository.
+Contributors are expected to follow the project code of conduct, which is published in the main [Harriet](https://github.com/HarrietProject/Harriet) repository.

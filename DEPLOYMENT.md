@@ -4,7 +4,7 @@ The FieldNode is designed to be installed once and left unattended for approxima
 
 ## 1. Siting principles
 
-A FieldNode adds value to a Reticulum mesh in direct proportion to its line of sight to other Reticulum nodes. LoRa is a ground wave technology with limited foliage and terrain penetration. The two single biggest factors in deployed range are:
+A FieldNode adds value to a Reticulum mesh in direct proportion to its line of sight to other Reticulum nodes. LoRa is a radio technology with limited foliage and terrain penetration. The two single biggest factors in deployed range are:
 
 1. Antenna height above surrounding terrain and structures
 2. Direct line of sight to a peer node

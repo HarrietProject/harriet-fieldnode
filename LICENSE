@@ -1,7 +1,7 @@
 CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 (CERN-OHL-S v2)
 
-Copyright (c) 2026 Project Groundwave contributors.
+Copyright (c) 2026 Project Harriet contributors.
 
 The hardware designs, schematics, CAD files, and related technical
 documentation contained in this repository are licensed under the
@@ -24,12 +24,12 @@ bills of materials) and CC BY-SA 4.0 prevails for prose.
 
 Source files are available at:
 
-    https://github.com/GroundWaveJack/groundwave-fieldnode
+    https://github.com/HarrietProject/harriet-fieldnode
 
 This licensing arrangement is described in more detail in the main
 project repository:
 
-    https://github.com/GroundWaveJack/GroundWave
+    https://github.com/HarrietProject/Harriet
 
 DISCLAIMER OF WARRANTY: This hardware design is provided "AS IS"
 without any warranty of any kind, express or implied, including but
